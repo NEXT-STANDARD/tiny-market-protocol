@@ -15,6 +15,7 @@ Start with AIP-001. Later AIPs assume familiarity with it.
 | [001](./aip-001-core-thesis.md) | Core Thesis of the TINY Market Protocol | Philosophy | Draft |
 | [002](./aip-002-agent-authentication.md) | Agent Authentication and Principal-Agent Binding | Protocol | Draft |
 | [003](./aip-003-intent-language.md) | Intent-Based Order Language | Protocol | Draft |
+| [004](./aip-004-tiny-listing.md) | TINY Listing Criteria and Continuous Compliance | Protocol | Draft |
 
 ## Status Definitions
 
