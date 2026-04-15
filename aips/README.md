@@ -13,6 +13,7 @@ Start with AIP-001. Later AIPs assume familiarity with it.
 | # | Title | Type | Status |
 |---|---|---|---|
 | [001](./aip-001-core-thesis.md) | Core Thesis of the TINY Market Protocol | Philosophy | Draft |
+| [002](./aip-002-agent-authentication.md) | Agent Authentication and Principal-Agent Binding | Protocol | Draft |
 
 ## Status Definitions
 
